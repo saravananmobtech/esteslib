@@ -4,4 +4,4 @@ include ':opencv451_arm64_v8a'
 include ':opencv451_armeabi_v7a'
 include ':opencv451_x86'
 include ':opencv451_x86_64'
-rootProject.name = "EstesLibrary"
+rootProject.name = "esteslib"
